@@ -1,0 +1,6 @@
+D:\Program\Console\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+D:\Program\Console\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+D:\Program\Console\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+D:\Program\Console\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojResolveAssemblyReference.cache
+D:\Program\Console\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+D:\Program\Console\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
